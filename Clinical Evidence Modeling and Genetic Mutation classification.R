@@ -1,5 +1,6 @@
-########################Logitic Regression to predict who will be a final customer- ###############################
-##########################Lead converion to final purchase probability#################################
+######################## Modeling the clinical evidence texts and application of machine learning algorithm ###################3
+######################## for classification of genetic mutation###############################
+
 
 
 #### Calling libraries####
